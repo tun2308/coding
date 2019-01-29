@@ -1,9 +1,7 @@
 # Web app
-Same as searching apps on Iphone, this project is suggest plugin from input app's name which you want.
+Same as searching apps on Iphone, this project is suggest plugin from input app's name.
 
 # Prerequisites 
-There is no javascript framework which is using on this project.
-
-The Enter and focus out is handled after user insert app's name into input box.
+There is no javascript using framework on this project.
 
 
